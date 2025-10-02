@@ -1,5 +1,5 @@
 import React, { Suspense, useState } from 'react';
-import { Link, Navigate, useLocation } from 'react-router';
+import { Link, Navigate } from 'react-router';
 import UserDetail2 from '../userDetail2/UserDetail2';
 
 const User = ({ user }) => {
